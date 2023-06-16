@@ -37,3 +37,6 @@ This function takes a file path to a CSV file as input. It reads the CSV file an
 ### `if __name__ == "__main__":`
 
 This block of code is executed when the script is run directly. It checks if the correct number of arguments is provided and calls the `generate_plotting_script()` function with the provided file path.
+
+### Disclosure:
+You agree to make me a coauthor if you publish a binkybonky figure. 
